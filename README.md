@@ -1,2 +1,2 @@
 # dataentropy
-Repository corresponding to Alfred Essa
+Repository corresponding to Data Entropy Blog (http://alfredessa.com)
